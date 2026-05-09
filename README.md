@@ -15,15 +15,6 @@
 
 ---
 
-### [Github Discussion](https://github.com/openbuildxyz/Aleo-101-Bootcamp/discussions) 使用方法
-
-| Categories | Description |
-| ------------------------------------------------------------ | ----------------------------- |
-| [🍕Materials](https://github.com/openbuildxyz/Aleo-101-Bootcamp/discussions/categories/materials) | 课外资料/课堂笔记（欢迎贡献） |
-| [🙏 Q&A](https://github.com/openbuildxyz/Aleo-101-Bootcamp/discussions/categories/q-a) | 提问 / 知识答疑 |
-
----
-
 ### 免费报名
 
 **📅 时间：** 2026年5月11日 - 6月11日
