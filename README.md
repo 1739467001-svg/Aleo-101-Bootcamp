@@ -69,10 +69,10 @@
 
 | Task                     | 对应章节                          | 学习奖励 | 奖励发放                    |
 |--------------------------|-----------------------------------|----------|-----------------------------|
-| [task1](./task/task1.md) | 章节一：Aleo 基础概念             | 奖金池   | [奖励🎉](./reward/task1.md) |
-| [task2](./task/task2.md) | 章节二：Leo 语言特性              | 奖金池   |                             |
-| [task3](./task/task3.md) | 章节三：Aleo SDK 与钱包集成       | 奖金池   |                             |
-| [task4](./task/task4.md) | 章节四：高级应用与合约交互        | 奖金池   |                             |
+| [task1](./task/task1.md) | 章节一：为什么需要隐私？             | 奖金池   | [奖励🎉](./reward/task1.md) |
+| [task2](./task/task2.md) | Leo 入门：学会这门语言              | 奖金池   |                             |
+| [task3](./task/task3.md) | 建起来：从程序到 dApp       | 奖金池   |                             |
+| [task4](./task/task4.md) | 用起来：真实场景落地        | 奖金池   |                             |
 
 完成所有 Task 可直通 Aleo Hackathon，获得官方深度指导与生态机会。
 
