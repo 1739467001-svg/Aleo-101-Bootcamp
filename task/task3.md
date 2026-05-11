@@ -1,6 +1,4 @@
-# Task 3 - 建起来：从程序到 dApp
-
-> 对应章节三：使用 SDK 与 Shield 钱包构建 dApp
+# Task 3 - 建起来：从程序到 dApp 
 
 基于 Leo 和前端完成一个可交互的隐私小应用, 请提交代码文件和demo截图。
 
